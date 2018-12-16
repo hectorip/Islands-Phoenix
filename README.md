@@ -1,9 +1,8 @@
-# Islands-Phoenix
-Functional web development with Elixir Project.
+# Islands Engine
 
-## Intro
+Este es el sistema que se crea en el libro [Functional Web Development with Elixir, OTP and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix),
+replicado a mano y cambiando las cosas que creo que pueden llevar mi estilo para entenderlo.
 
-Este es el proyecto que se construye en el libro "Functional Web Programming"
-y que com principal objetivo tiene enseñar como se construye una aplicación
-con capas separadas, sin gran acoplamiento y dependencia del Framework.
+Cualquier duda o comentario, puedes abrir un issue.
+
 
