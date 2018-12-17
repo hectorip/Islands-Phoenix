@@ -5,7 +5,6 @@ defmodule IslandsEngine.Coordinate do
 
   alias __MODULE__
   @board_range 1..10
-
   @enforce_keys [:row, :col]
   defstruct [:row, :col]
 
